@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GSModelosIAsln")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f48e1781c1d7e55bef2c35ff34a059dad168025")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32551885513d09d369294aafd6e42781a7b2b88f")]
 [assembly: System.Reflection.AssemblyProductAttribute("GSModelosIAsln")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GSModelosIAsln")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

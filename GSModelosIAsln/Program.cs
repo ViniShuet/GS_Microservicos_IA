@@ -1,4 +1,5 @@
 using Repository;
+using Service; 
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,6 +8,7 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// INJEÇÃO DE DEPENDÊNCIA
 builder.Services.AddScoped<IPromptRepository, PromptRepository>(provider =>
 {
     var connectionString = builder.Configuration.GetConnectionString("DefaultConnection")
@@ -14,6 +16,8 @@ builder.Services.AddScoped<IPromptRepository, PromptRepository>(provider =>
 
     return new PromptRepository(connectionString);
 });
+
+builder.Services.AddScoped<IPromptService, PromptService>();
 
 var app = builder.Build();
 
@@ -25,9 +29,6 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.MapControllers();
-
 app.Run();

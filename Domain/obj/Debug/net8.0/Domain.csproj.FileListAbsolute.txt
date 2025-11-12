@@ -3,3 +3,10 @@ C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\Domain.Ass
 C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
 C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
 C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\labsfiap\source\repos\GSModelosIAsln\Domain\obj\Debug\net8.0\ref\Domain.dll
