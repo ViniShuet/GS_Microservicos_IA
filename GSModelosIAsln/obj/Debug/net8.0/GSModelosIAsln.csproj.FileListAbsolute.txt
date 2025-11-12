@@ -1,0 +1,7 @@
+C:\Users\labsfiap\source\repos\GSModelosIAsln\GSModelosIAsln\obj\Debug\net8.0\GSModelosIAsln.csproj.AssemblyReference.cache
+C:\Users\labsfiap\source\repos\GSModelosIAsln\GSModelosIAsln\obj\Debug\net8.0\GSModelosIAsln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labsfiap\source\repos\GSModelosIAsln\GSModelosIAsln\obj\Debug\net8.0\GSModelosIAsln.AssemblyInfoInputs.cache
+C:\Users\labsfiap\source\repos\GSModelosIAsln\GSModelosIAsln\obj\Debug\net8.0\GSModelosIAsln.AssemblyInfo.cs
+C:\Users\labsfiap\source\repos\GSModelosIAsln\GSModelosIAsln\obj\Debug\net8.0\GSModelosIAsln.csproj.CoreCompileInputs.cache
+C:\Users\labsfiap\source\repos\GSModelosIAsln\GSModelosIAsln\obj\Debug\net8.0\GSModelosIAsln.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\labsfiap\source\repos\GSModelosIAsln\GSModelosIAsln\obj\Debug\net8.0\GSModelosIAsln.sourcelink.json
