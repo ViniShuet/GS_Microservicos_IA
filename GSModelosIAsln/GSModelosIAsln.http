@@ -1,0 +1,6 @@
+@GSModelosIAsln_HostAddress = http://localhost:5037
+
+GET {{GSModelosIAsln_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
